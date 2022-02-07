@@ -1,6 +1,6 @@
 ## 🎯 Sobre
 
-O projeto **Jogo da Forca** é o segundo aplicativo que faz parte da trilha de formação entre Alura e Oracle.Projeto com duração de 6 meses. 
+O projeto **Jogo da Forca** é o segundo aplicativo que faz parte da trilha de formação entre Alura e Oracle. Projeto com duração de 6 meses. 
 O jogo consiste em apenas 6 tentativas de acerto  para o jogador, após as seis tentativas, o jogador perde o jogo. 
 
 ---
