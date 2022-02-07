@@ -25,7 +25,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```bash
 
 # Clonar o respositório
-$ git clone https://github.com/AlexandreDChaves/forca
+$ git clone https://github.com/AlexandreDChaves/Jogo_da_Forca
 
 # Entrar no didretório
 $ cd Cript
